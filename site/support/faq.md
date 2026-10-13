@@ -9,6 +9,9 @@ Milkly schedules up to eight pump reminders ahead. If you leave the app closed f
 ## How does Pro week work? Where is my history?
 Pro week gives you Pro as a courtesy when you start, with no payment or automatic charge. Milkly lets you know before it ends, and it ends on its own. After that, the free tier shows today's records; older records are kept, not deleted. Pro shows your full history again. No purchase is required to keep logging.
 
+## How does the free week work?
+The Yearly plan can start with a free week. The App Store asks you to confirm the subscription, but nothing is charged for 7 days. If you don't cancel, the yearly price is charged when the week ends. With notifications on, Milkly reminds you two days before. To cancel, open iPhone Settings → your name → Subscriptions → Milkly; Pro stays on until the week ends. After that, the free tier shows today's records; older records are kept. The free week is available once per Apple Account.
+
 ## How do I cancel or request a refund?
 Open iPhone Settings → your name → Subscriptions → Milkly to manage or cancel a paid plan. Deleting Milkly does not cancel it. Use Restore purchases in Milkly for existing purchases. Apple handles [refund requests](https://reportaproblem.apple.com/).
 
@@ -34,6 +37,9 @@ O Milkly agenda até oito lembretes de extração. Após dias sem abrir o app, e
 
 ## Como funciona a semana Pro? Onde está meu histórico?
 A semana Pro oferece Pro por cortesia no início, sem pagamento ou cobrança automática. O Milkly avisa antes de ela terminar, e ela termina sozinha. Depois, a versão gratuita mostra os registros de hoje; os registros anteriores são mantidos, não apagados. O Pro mostra de novo o histórico completo. Você pode continuar registrando sem comprar.
+
+## Como funciona a semana grátis?
+O plano Anual pode começar com uma semana grátis. A App Store pede que você confirme a assinatura, mas nada é cobrado por 7 dias. Se você não cancelar, o valor anual é cobrado quando a semana termina. Com as notificações ativadas, o Milkly avisa dois dias antes. Para cancelar, abra Ajustes do iPhone → seu nome → Assinaturas → Milkly; o Pro continua ativo até o fim da semana. Depois, a versão gratuita mostra os registros de hoje; os anteriores são mantidos. A semana grátis vale uma vez por Conta Apple.
 
 ## Como cancelar ou pedir reembolso?
 Abra Ajustes do iPhone → seu nome → Assinaturas → Milkly para gerenciar ou cancelar. Apagar o app não cancela a assinatura. Use Restaurar compras para compras existentes. A Apple cuida dos [pedidos de reembolso](https://reportaproblem.apple.com/).
@@ -61,6 +67,9 @@ Milkly programa hasta ocho recordatorios de extracción. Si no abres la app dura
 ## ¿Cómo funciona la semana Pro? ¿Dónde está mi historial?
 La semana Pro te ofrece Pro como cortesía al empezar, sin pago ni cargo automático. Milkly te avisa antes de que termine, y termina sola. Después, la versión gratuita muestra los registros de hoy; los registros anteriores se conservan, no se borran. Pro vuelve a mostrar todo el historial. Puedes seguir registrando sin comprar.
 
+## ¿Cómo funciona la semana gratis?
+El plan Anual puede empezar con una semana gratis. El App Store te pide confirmar la suscripción, pero no se cobra nada durante 7 días. Si no cancelas, se cobra el precio anual cuando termina la semana. Con las notificaciones activadas, Milkly te avisa dos días antes. Para cancelar, abre Configuración del iPhone → tu nombre → Suscripciones → Milkly; Pro sigue activo hasta que termina la semana. Después, la versión gratuita muestra los registros de hoy; los anteriores se conservan. La semana gratis está disponible una vez por cuenta de Apple.
+
 ## ¿Cómo cancelo o pido un reembolso?
 Abre Configuración del iPhone → tu nombre → Suscripciones → Milkly. Borrar la app no cancela la suscripción. Usa Restaurar compras para compras existentes. Apple gestiona las [solicitudes de reembolso](https://reportaproblem.apple.com/).
 
@@ -86,6 +95,9 @@ Milkly programa hasta ocho recordatorios de extracción. Si no abres la app dura
 
 ## ¿Cómo funciona la semana Pro? ¿Dónde está mi historial?
 La semana Pro te ofrece Pro como cortesía al empezar, sin pago ni cargo automático. Milkly te avisa antes de que termine, y termina sola. Después, la versión gratuita muestra los registros de hoy; los registros anteriores se conservan, no se borran. Pro vuelve a mostrar todo el historial. Puedes seguir registrando sin comprar.
+
+## ¿Cómo funciona la semana gratis?
+El plan Anual puede empezar con una semana gratis. El App Store te pide confirmar la suscripción, pero no se cobra nada durante 7 días. Si no cancelas, se cobra el precio anual cuando termina la semana. Con las notificaciones activadas, Milkly te avisa dos días antes. Para cancelar, abre Ajustes del iPhone → tu nombre → Suscripciones → Milkly; Pro sigue activo hasta que termina la semana. Después, la versión gratuita muestra los registros de hoy; los anteriores se conservan. La semana gratis está disponible una vez por cuenta de Apple.
 
 ## ¿Cómo cancelo o pido un reembolso?
 Abre Ajustes del iPhone → tu nombre → Suscripciones → Milkly. Borrar la app no cancela la suscripción. Usa Restaurar compras para compras existentes. Apple gestiona las [solicitudes de reembolso](https://reportaproblem.apple.com/).
@@ -113,6 +125,9 @@ Milkly programme jusqu’à huit rappels de tirage. Après plusieurs jours sans 
 ## Comment fonctionne la semaine Pro ? Où est mon historique ?
 La semaine Pro vous donne accès à Pro dès le début, sans paiement ni prélèvement automatique. Milkly vous prévient avant la fin, et elle s’arrête automatiquement. Ensuite, la version gratuite affiche les enregistrements du jour ; les anciens enregistrements sont conservés, pas supprimés. Pro redonne accès à tout l’historique. Vous pouvez continuer à enregistrer sans achat.
 
+## Comment fonctionne la semaine gratuite ?
+La formule Annuel peut commencer par une semaine gratuite. L’App Store vous demande de confirmer l’abonnement, mais rien n’est prélevé pendant 7 jours. Sans résiliation, le prix annuel est prélevé à la fin de la semaine. Si les notifications sont activées, Milkly vous prévient deux jours avant. Pour résilier, ouvrez Réglages de l’iPhone → votre nom → Abonnements → Milkly ; Pro reste actif jusqu’à la fin de la semaine. Ensuite, la version gratuite affiche les enregistrements du jour ; les anciens sont conservés. La semaine gratuite est disponible une fois par compte Apple.
+
 ## Comment résilier ou demander un remboursement ?
 Ouvrez Réglages de l’iPhone → votre nom → Abonnements → Milkly. Supprimer l’app ne résilie pas l’abonnement. Utilisez Restaurer les achats pour vos achats existants. Apple traite les [demandes de remboursement](https://reportaproblem.apple.com/).
 
@@ -139,6 +154,9 @@ Milkly plant bis zu acht Abpumperinnerungen im Voraus. Bleibt die App tagelang g
 ## Wie funktioniert die Pro-Woche? Wo ist mein Verlauf?
 Die Pro-Woche schenkt dir Pro zum Start, ohne Zahlung oder automatische Abbuchung. Milkly sagt dir vorher Bescheid, und sie endet automatisch. Danach zeigt die kostenlose Version die Einträge von heute; ältere Einträge bleiben gespeichert, nichts wird gelöscht. Mit Pro siehst du wieder den gesamten Verlauf. Du kannst ohne Kauf weiter protokollieren.
 
+## Wie funktioniert die Gratiswoche?
+Der Plan „Jährlich“ kann mit einer Gratiswoche beginnen. Der App Store bittet dich, das Abo zu bestätigen, aber 7 Tage lang wird nichts abgebucht. Kündigst du nicht, wird am Ende der Woche der Jahrespreis abgebucht. Sind Mitteilungen aktiv, erinnert Milkly dich zwei Tage vorher. Zum Kündigen öffne iPhone-Einstellungen → dein Name → Abonnements → Milkly; Pro bleibt bis zum Ende der Woche aktiv. Danach zeigt die kostenlose Version die Einträge von heute; ältere bleiben gespeichert. Die Gratiswoche gibt es einmal pro Apple Account.
+
 ## Wie kündige ich oder beantrage eine Erstattung?
 Öffne iPhone-Einstellungen → dein Name → Abonnements → Milkly. Das Löschen der App kündigt kein Abo. Nutze Käufe wiederherstellen für bestehende Käufe. Apple bearbeitet [Erstattungsanträge](https://reportaproblem.apple.com/).
 
@@ -164,6 +182,9 @@ Milkly programma fino a otto promemoria di estrazione. Dopo giorni senza aprire 
 
 ## Come funziona la settimana Pro? Dov’è la cronologia?
 La settimana Pro ti offre Pro in omaggio all’inizio, senza pagamento né addebito automatico. Milkly ti avvisa prima che finisca, e termina automaticamente. Poi la versione gratuita mostra le registrazioni di oggi; i dati precedenti restano conservati, non cancellati. Con Pro torna visibile l’intera cronologia. Puoi continuare a registrare senza acquistare.
+
+## Come funziona la settimana gratuita?
+Il piano Annuale può iniziare con una settimana gratuita. L’App Store ti chiede di confermare l’abbonamento, ma per 7 giorni non viene addebitato nulla. Se non annulli, alla fine della settimana viene addebitato il prezzo annuale. Con le notifiche attive, Milkly ti avvisa due giorni prima. Per annullare, apri Impostazioni dell’iPhone → il tuo nome → Abbonamenti → Milkly; Pro resta attivo fino alla fine della settimana. Poi la versione gratuita mostra le registrazioni di oggi; quelle precedenti restano conservate. La settimana gratuita è disponibile una volta per Apple Account.
 
 ## Come annullo o chiedo un rimborso?
 Apri Impostazioni dell’iPhone → il tuo nome → Abbonamenti → Milkly. Eliminare l’app non annulla l’abbonamento. Usa Ripristina acquisti per gli acquisti esistenti. Apple gestisce le [richieste di rimborso](https://reportaproblem.apple.com/).
